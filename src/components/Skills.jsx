@@ -1,6 +1,6 @@
 const Skills = () => {
   return (
-    <div className="bg-[#DCF1FA] w-[95%] rounded-[3vw] mb-20">
+    <div className="bg-[#DCF1FA] w-[95%] rounded-[3vw] m-auto mb-20">
       <div className=" font-['Monoton'] text-[#640C19] text-[calc(10px+2.5vw)] uppercase text-center pt-10">
         Skills
       </div>
