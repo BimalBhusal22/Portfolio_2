@@ -1,5 +1,5 @@
 const TrustedBy = () => {
-  return <div className="mb-12">
+  return <div className="mb-12 w-[95%] m-auto">
         <div className=" font-['Monoton'] text-[#640C19] text-[calc(10px+2.5vw)] uppercase text-center sm:mb-6">
             Truested By
           </div>
